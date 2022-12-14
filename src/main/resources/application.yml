@@ -16,6 +16,6 @@ spring:
     defer-datasource-initialization: true
     hibernate:
       ddl-auto: create-drop
-  server:
-    port: 8090
+    server:
+      port: 8090
 
